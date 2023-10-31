@@ -1,2 +1,2 @@
-# PQC
-ICAS PQC test
+# Innovus
+ICAS Innovus setup
