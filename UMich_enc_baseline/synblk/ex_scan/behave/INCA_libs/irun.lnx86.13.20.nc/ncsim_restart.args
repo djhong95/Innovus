@@ -1,0 +1,25 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
++access+r
+-gui
+-MESSAGES
++EMGRLOG
+ncverilog.log
+-XLSTIME
+1453888802
+-XLKEEP
+-XLMODE
+./INCA_libs/irun.lnx86.13.20.nc
+-RUNMODE
+-CDSLIB
+./INCA_libs/irun.lnx86.13.20.nc/cds.lib
+-HDLVAR
+./INCA_libs/irun.lnx86.13.20.nc/hdl.var
+-XLNAME
+ncverilog
+-XLVERSION
+"TOOL:	ncverilog	13.20-p002"
+-XLNAME
+./INCA_libs/irun.lnx86.13.20.nc/icas-a0.skku.edu_20408

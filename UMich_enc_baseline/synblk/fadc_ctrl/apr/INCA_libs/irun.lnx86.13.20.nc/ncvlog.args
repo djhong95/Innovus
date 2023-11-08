@@ -1,0 +1,19 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+-XLMODE
+./INCA_libs/irun.lnx86.13.20.nc
+-RUNMODE
+./minipuf_ctrl.apr.v
+../behave/testbench_minipuf_ctrl.v
+/icas/kits/tsmc180/sc/tcb018gbwp7t_270a/Front_End/verilog/tcb018gbwp7t_270a/tcb018gbwp7t.v
+-CDSLIB
+./INCA_libs/irun.lnx86.13.20.nc/cdsrun.lib
+-HDLVAR
+./INCA_libs/irun.lnx86.13.20.nc/hdlrun.var
+-MESSAGES
+-UPDATE
+-XLLIBSTORE
+./INCA_libs/irun.lnx86.13.20.nc/xllibs
+-ALLOWUNBOUND

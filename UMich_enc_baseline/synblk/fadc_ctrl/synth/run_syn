@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [ -d result ]; then
+	rm -rf ./result/*
+else
+	mkdir result
+fi
+
+dc_shell-xg-t -f synthesis.tcl |& tee synthesis.log

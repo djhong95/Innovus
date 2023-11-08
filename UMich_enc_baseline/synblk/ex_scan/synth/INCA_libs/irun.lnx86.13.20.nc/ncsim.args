@@ -1,0 +1,24 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
++nctimescale+1ns/1ps
++access+r
+-gui
+-MESSAGES
++EMGRLOG
+ncverilog.log
+-XLSTIME
+1510210416
+-XLKEEP
+-XLMODE
+./INCA_libs/irun.lnx86.13.20.nc
+-RUNMODE
+-CDSLIB
+./INCA_libs/irun.lnx86.13.20.nc/cds.lib
+-HDLVAR
+./INCA_libs/irun.lnx86.13.20.nc/hdl.var
+-XLNAME
+ncverilog
+-XLVERSION
+"TOOL:	ncverilog	13.20-p002"

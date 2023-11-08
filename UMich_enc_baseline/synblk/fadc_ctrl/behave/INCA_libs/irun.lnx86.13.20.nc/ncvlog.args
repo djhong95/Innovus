@@ -1,0 +1,19 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+-XLMODE
+./INCA_libs/irun.lnx86.13.20.nc
+-RUNMODE
+minipuf_ctrl.v
+../behave/testbench_minipuf_ctrl.v
+/icas/kits/tsmc180/sc/sc9_base_rvt/2008q3v01/verilog/sage-x_tsmc_cl018g_rvt_neg.v
+-CDSLIB
+./INCA_libs/irun.lnx86.13.20.nc/cdsrun.lib
+-HDLVAR
+./INCA_libs/irun.lnx86.13.20.nc/hdlrun.var
+-MESSAGES
+-UPDATE
+-XLLIBSTORE
+./INCA_libs/irun.lnx86.13.20.nc/xllibs
+-ALLOWUNBOUND

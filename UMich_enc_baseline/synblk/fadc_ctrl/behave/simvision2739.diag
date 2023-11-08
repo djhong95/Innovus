@@ -1,0 +1,88 @@
+*** Message Type: info ***
+When: Sun May 14 03:13:42 KST 2017
+SimVision started.
+Version: TOOL:  simvision       13.20-p002
+User: yoonmyung
+Host: icas-a0.skku.edu
+Platform: Linux/x86_64/2.6.32-504.el6.x86_64
+Started: Sun May 14 03:13:42 KST 2017
+Command: /icas/tools/cadence/incisiv-13.20.002/tools.lnx86/simvision/bin/simvision.exe -connect dc:icas-a0.skku.edu:37306 -nocopyright
+Work Directory: /icas2/projects/02_puf/synblk/minipuf_ctrl/behave
+ 
+*** Message Type: info ***
+When: Sun May 14 03:13:44 KST 2017
+Create browser window: "Design Browser 1"
+ 
+*** Message Type: info ***
+When: Sun May 14 03:14:07 KST 2017
+Create console window: "Console"
+ 
+*** Message Type: info ***
+When: Sun May 14 03:14:23 KST 2017
+Connect to Simulator
+      Design: worklib.tbench:v
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:   ncsim   13.20-p002
+        User: yoonmyung
+        Host: icas-a0.skku.edu
+Time Started: Sun May 14 03:13:24 KST 2017
+  Process ID: 2733
+   Directory: /icas2/projects/02_puf/synblk/minipuf_ctrl/behave
+     Command: ncverilog minipuf_ctrl.v ../behave/testbench_minipuf_ctrl.v /icas/kits/tsmc180/sc/sc9_base_rvt/2008q3v01/verilog/sage-x_tsmc_cl018g_rvt_neg.v +nctimescale+1ns/1ps +access+r -gui
+
+ 
+*** Message Type: info ***
+When: Sun May 14 03:14:36 KST 2017
+Create utility window: "Properties"
+ 
+*** Message Type: info ***
+When: Sun May 14 03:15:40 KST 2017
+Create waveform window: "Waveform 1"
+ 
+*** Message Type: info ***
+When: Sun May 14 03:18:11 KST 2017
+Delete browser window: "Design Browser 1"
+ 
+*** Message Type: info ***
+When: Sun May 14 03:18:52 KST 2017
+Exit NC-Sim: user
+      Design: worklib.tbench:v
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:   ncsim   13.20-p002
+        User: yoonmyung
+        Host: icas-a0.skku.edu
+Time Started: Sun May 14 03:13:24 KST 2017
+  Process ID: 2733
+   Directory: /icas2/projects/02_puf/synblk/minipuf_ctrl/behave
+     Command: ncverilog minipuf_ctrl.v ../behave/testbench_minipuf_ctrl.v /icas/kits/tsmc180/sc/sc9_base_rvt/2008q3v01/verilog/sage-x_tsmc_cl018g_rvt_neg.v +nctimescale+1ns/1ps +access+r -gui
+
+ 
+*** Message Type: error ***
+When: Sun May 14 03:18:57 KST 2017
+NC-Sim Crashed:
+      Design: worklib.tbench:v
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:   ncsim   13.20-p002
+        User: yoonmyung
+        Host: icas-a0.skku.edu
+Time Started: Sun May 14 03:13:24 KST 2017
+  Process ID: 2733
+   Directory: /icas2/projects/02_puf/synblk/minipuf_ctrl/behave
+     Command: ncverilog minipuf_ctrl.v ../behave/testbench_minipuf_ctrl.v /icas/kits/tsmc180/sc/sc9_base_rvt/2008q3v01/verilog/sage-x_tsmc_cl018g_rvt_neg.v +nctimescale+1ns/1ps +access+r -gui
+      Design: worklib.tbench:v
+   Languages: verilog
+   Simulator: NC-Sim
+     Version: TOOL:   ncsim   13.20-p002
+        User: yoonmyung
+        Host: icas-a0.skku.edu
+Time Started: Sun May 14 03:13:24 KST 2017
+  Process ID: 2733
+   Directory: /icas2/projects/02_puf/synblk/minipuf_ctrl/behave
+     Command: ncverilog minipuf_ctrl.v ../behave/testbench_minipuf_ctrl.v /icas/kits/tsmc180/sc/sc9_base_rvt/2008q3v01/verilog/sage-x_tsmc_cl018g_rvt_neg.v +nctimescale+1ns/1ps +access+r -gui
+
+Outstanding STRAP Requests:
+        strap::report enable out
+ 

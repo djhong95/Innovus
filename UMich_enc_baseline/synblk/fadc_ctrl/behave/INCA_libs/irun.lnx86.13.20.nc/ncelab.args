@@ -1,0 +1,22 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
++nctimescale+1ns/1ps
++access+r
+-noshowtop
+-timescale
+1ns/1ps
+-ACCESS
++r
+-MESSAGES
+-XLMODE
+./INCA_libs/irun.lnx86.13.20.nc
+-RUNMODE
+-CDSLIB
+./INCA_libs/irun.lnx86.13.20.nc/cds.lib
+-HDLVAR
+./INCA_libs/irun.lnx86.13.20.nc/hdl.var
+-WORK
+worklib
+-HASXLMODE

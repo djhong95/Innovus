@@ -1,0 +1,88 @@
+0 
+28
++libext+.v+.vlib+.vh
++multisource_int_delays
++neg_tchk
++v2k
++vc
++vcs+lic+wait
+-Mamsrun=
+-Masflags=--32
+-Mcc=gcc
+-Mcfl= -pipe -m32 -O -I/icas/tools/synopsys/vcs-2014.12/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mldflags= -m32 -m32
+-Mobjects= /icas/tools/synopsys/vcs-2014.12/linux/lib/libvirsim.so /icas/tools/synopsys/vcs-2014.12/linux/lib/liberrorinf.so /icas/tools/synopsys/vcs-2014.12/linux/lib/libsnpsmalloc.so
+-Mout=testbench.exe
+-Msaverestoreobj=/icas/tools/synopsys/vcs-2014.12/linux/lib/vcs_save_restore_new.o
+-Msyslibs=/icas/tools/synopsys/vcs-2014.12/linux/lib/ctype-stubs_32.a -ldl
+-Mvcsaceobjs=
+-gen_obj
+-o testbench.exe
+-picarchive
+-sverilog
+-timescale=1ns/1ps
+/icas/tools/synopsys/vcs-2014.12/linux/bin/vcs1
+scan.v
+scan_testbench.v
+47
+sysc_uni_pwd=/icas/projects/01_pmu/synblk/ex_scan/behave
+VMR_MODE_FLAG=32
+VENDOR=unknown
+VCS_HOME=/icas/tools/synopsys/vcs-2014.12
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux
+VCS_AMD_PURE32=1
+USE5141=YES
+UNAME=/bin/uname
+TOOL_HOME=/icas/tools/synopsys/vcs-2014.12/linux
+SSH_TTY=/dev/pts/9
+SSH_CONNECTION=115.145.210.164 61774 115.145.210.221 22
+SSH_CLIENT=115.145.210.164 61774 22
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SNPSLMD_LICENSE_FILE=30000@115.145.208.15:/icas/tools/synopsys/vcs-2014.12/flexlm//license.dat
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+REMOTEHOST=115.145.210.164
+QTLIB=/usr/lib64/qt-3.3/lib
+QTINC=/usr/lib64/qt-3.3/include
+QTDIR=/usr/lib64/qt-3.3
+OVA_UUM=0
+OSTYPE=linux
+ORGLAB_LICENSE_FILE=27000@icas-a0.skku.edu
+MODULESHOME=/usr/share/Modules
+MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles
+MMSIM_HOME=/icas/tools/cadence/mmsim141
+MGLS_LICENSE_FILE=1717@115.145.210.140
+MGC_HOME=/icas/tools/mentor/aoi_cal_2015.1_15.11
+MFLAGS=
+MAKELEVEL=1
+MAKEFLAGS=
+LOADEDMODULES=
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+KDEDIRS=/usr
+HSP_HOME=/icas/tools/synopsys/hspice-2013.12-SP1
+HOSTTYPE=x86_64-linux
+G_BROKEN_FILENAMES=1
+GROUP=icas
+CVS_RSH=ssh
+CDS_VPCM_HOME=/icas/tools/cadence/mmsim141/tools.lnx86/vpcm
+CDS_Netlisting_Mode=Analog
+CDS_HOME=/icas/tools/cadence/ic5141
+CDPL_HOME=/icas/home/yoonmyung
+CADENCE_IUS=/icas/tools/cadence/incisiv-13.20.002
+0
+2
+1453888257 scan.v
+1453888257 scan_testbench.v
+4
+0 
+1416631901 /icas/tools/synopsys/vcs-2014.12/linux/lib/libvirsim.so
+1416631616 /icas/tools/synopsys/vcs-2014.12/linux/lib/liberrorinf.so
+1416631607 /icas/tools/synopsys/vcs-2014.12/linux/lib/libsnpsmalloc.so
+1457412434 testbench.exe.daidir
