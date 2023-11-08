@@ -1,0 +1,56 @@
+{
+    "Modules": {
+        "tbench": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        },
+        "...MASTER...": {},
+        "std": {
+            "Compiled": "Yes",
+            "Compiled Times": 1
+        }
+    },
+    "ObjArchives": [
+        {
+            "archive": "archive.0/_17344_archive_1.a",
+            "objects": [
+                [
+                    "amcQw_u0_obj.o",
+                    4576
+                ],
+                [
+                    "reYIK_u0_obj.o",
+                    18576
+                ],
+                [
+                    "JZtC4_u0_obj.o",
+                    36797
+                ]
+            ],
+            "size": 59949
+        }
+    ],
+    "CompUnits": {
+        "amcQw_u0_obj": {
+            "mod": "...MASTER...",
+            "mode": 4,
+            "out": "amcQw_u0_obj.o",
+            "bytes": 4576,
+            "archive": "archive.0/_17344_archive_1.a"
+        },
+        "JZtC4_u0_obj": {
+            "mod": "tbench",
+            "mode": 4,
+            "out": "JZtC4_u0_obj.o",
+            "bytes": 36797,
+            "archive": "archive.0/_17344_archive_1.a"
+        },
+        "reYIK_u0_obj": {
+            "mod": "std",
+            "mode": 4,
+            "out": "reYIK_u0_obj.o",
+            "bytes": 18576,
+            "archive": "archive.0/_17344_archive_1.a"
+        }
+    }
+}

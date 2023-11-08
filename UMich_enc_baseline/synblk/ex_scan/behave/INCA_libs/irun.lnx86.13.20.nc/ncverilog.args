@@ -1,0 +1,8 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+scan_testbench.v
+scan.v
++access+r
+-gui

@@ -1,0 +1,47 @@
+{
+    "CurCompileUdps": {},
+    "NameTable": {
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ],
+        "tbench": [
+            "tbench",
+            "JZtC4",
+            "module"
+        ]
+    },
+    "CompileStrategy": "fullobj",
+    "CompileProcesses": [
+        "cgproc.17344.json"
+    ],
+    "PEModules": [],
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 35120
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "CurCompileModules": [
+        "...MASTER...",
+        "std",
+        "tbench"
+    ],
+    "Misc": {
+        "cwd": "/icas2/projects/01_pmu/synblk/ex_scan/behave",
+        "csrc": "csrc",
+        "csrc_abs": "/icas2/projects/01_pmu/synblk/ex_scan/behave/csrc",
+        "default_output_dir": "csrc",
+        "daidir": "/icas2/projects/01_pmu/synblk/ex_scan/behave/testbench.exe.daidir",
+        "daidir_abs": "/icas2/projects/01_pmu/synblk/ex_scan/behave/testbench.exe.daidir",
+        "archive_dir": "archive.0"
+    },
+    "CompileStatus": "Successful"
+}
